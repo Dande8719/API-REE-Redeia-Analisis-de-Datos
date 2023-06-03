@@ -28,7 +28,7 @@ La red eléctrica de España está compuesta por una extensa infraestructura de 
 
 Además, REE es responsable de la planificación y desarrollo de la red eléctrica, asegurando que haya suficiente capacidad de transmisión para satisfacer las necesidades presentes y futuras del sistema. También se encarga de la coordinación con los operadores de otros países para garantizar la interconexión y el intercambio de electricidad a nivel europeo.
 
-Paso 1 (Extracción de datos):
+- Paso 1 (Extracción de datos):
 Primero haremos una llamada a la API con los parámetros que nos interesan y nos devolverá una respuesta en formato JSON. La documentación la podemos encontrar aquí: https://www.ree.es/es/apidatos
 
 - Paso 2 (Transformación) :
