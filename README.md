@@ -41,4 +41,4 @@ Partiendo del DataFrame lo cargamos a Airtable para poder trabajar en la  nube y
 Trabajamos con Matplotlib, seaborn, plotly y folium para visualizar los datos relevantes.
 
 
-Enlace a Streamlite con las visualizaciones relevantes: http://localhost:8501/#generaci-n-energ-tica-por-tipo-de-tecnolog-a-utilizada
+Enlace a Streamlite con las visualizaciones relevantes: https://redelectrica.streamlit.app/
